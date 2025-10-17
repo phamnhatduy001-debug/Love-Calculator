@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Love Calculator",
+  "description": "A fun love calculator that uses Gemini to generate a romantic message based on two names and their calculated love percentage, inspired by a popular social media trend.",
+  "requestFramePermissions": []
+}

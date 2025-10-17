@@ -1,0 +1,8 @@
+
+export enum AppStatus {
+  IDLE = 'IDLE',
+  CALCULATING = 'CALCULATING',
+  LOADING_MESSAGE = 'LOADING_MESSAGE',
+  RESULT = 'RESULT',
+  ERROR = 'ERROR',
+}
